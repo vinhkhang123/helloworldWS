@@ -1,0 +1,4 @@
+D:\git\HelloW\HelloW\bin\HelloW.dll
+D:\git\HelloW\HelloW\bin\HelloW.pdb
+D:\git\HelloW\HelloW\obj\Debug\HelloW.dll
+D:\git\HelloW\HelloW\obj\Debug\HelloW.pdb
